@@ -1,0 +1,74 @@
+h1{
+    color:chartreuse
+}
+
+body{
+margin: 0px;
+background-color: #f7f7f2;
+}
+
+.header{
+    background-color: #000000;
+    font-size: xx-large;
+    font-style: italic;
+    
+    padding: 15px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff
+}
+.camel{
+    background-color: red;
+    display: flex;
+    justify-content:space-between;
+    flex-flow: column;
+    font-size: xx-large;
+}
+
+.chameleon{
+    background-color: cyan;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: column;
+    font-size: xx-large;
+}
+
+.pigeon{
+    background-color:blue;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: column;
+    font-size: xx-large;
+}
+
+.teddy{
+    background-color: purple;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: column;
+    font-size: xx-large;
+}
+
+.panda{
+    background-color:pink;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: column;
+    font-size: xx-large;
+}
+
+.cicada{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: column;
+    font-size: xx-large;
+}
